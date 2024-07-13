@@ -1,16 +1,14 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Samuel%20F.&textBg=false&section=header&desc=Full%20Stack%20Developer%20/%20DevOPS&descAlignY=53&animation=fadeIn&fontAlignY=40">
 
-<!--
-**samuelfranzini/samuelfranzini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-franzini/">Linkedin</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a __Full Stack Web Developer__ and __DevOps__ based in __Belgium 🇧🇪__. I love teaching web development and all kinds of other things online and I'm ready for discussions and making new projects, write blogs on Dev.to etc.
+
+* 💼 Currently working at [MeilleurTaux Belgium](https://www.meilleurtaux.be/) <br/>
+* 🔖 Discover my [Curriculum Vitae](https://franzini.be/files/cv.pdf)<br/>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gh_samuelfranzini)
