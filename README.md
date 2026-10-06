@@ -69,8 +69,3 @@ I'm **open to permanent positions (CDI) in Belgium and Luxembourg**, especially 
 ### 📫 Get in touch
 
 The easiest way is [LinkedIn](https://www.linkedin.com/in/samuel-franzini/). References available on request.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelfranzini&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfranzini&layout=compact&hide_border=true&theme=transparent" height="160" />
-</p>
