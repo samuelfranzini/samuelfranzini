@@ -8,7 +8,7 @@
 
 ### 👋 Hi, I'm Samuel
 
-I build and run the digital tools behind **[Ambulance Présent 2.0 ASBL](https://ambulancepresent.be/)**, a Belgian volunteer ambulance organisation —
+I build and run the digital tools behind **[Ambulance Présent 2.0 ASBL](https://ambulancepresent.be/)**, a Belgian volunteer ambulance organisation:
 from the public website to the volunteer portal, the back-office and the servers they run on.
 
 Most of my work sits where **web development meets operations**: I design the data model, write the API and the UI,
@@ -16,11 +16,11 @@ then ship, monitor and maintain it myself.
 
 ### 🛠️ What I work on
 
-- 🚑 **Volunteer platform** — Nuxt + Directus portal for volunteers: trainings, uniforms & equipment, logistics, returns, activity points
-- 🔐 **Directus extensions** — account security (active sessions, activity log, 2FA backup codes, WebAuthn), Stripe payments, custom mail operations
-- 🔄 **Integrations & automation** — syncing data between eBrigade, Excel imports and Directus (Node.js workers, scheduled jobs)
-- 🤖 **Discord bots** — community bots for gaming and Discord communities
-- 📡 **Ops** — self-hosting, CI/CD, backups and a public [status page](https://status.ambulancepresent.be/)
+- 🚑 **Volunteer platform**: Nuxt + Directus portal for volunteers (trainings, uniforms & equipment, logistics, returns, activity points)
+- 🔐 **Directus extensions**: account security (active sessions, activity log, 2FA backup codes, WebAuthn), Stripe payments, custom mail operations
+- 🔄 **Integrations & automation**: syncing data between eBrigade, Excel imports and Directus (Node.js workers, scheduled jobs)
+- 🤖 **Discord bots**: community bots for gaming and Discord communities
+- 📡 **Ops**: self-hosting, CI/CD, backups and a public [status page](https://status.ambulancepresent.be/)
 
 ### 🧰 Stack
 
@@ -48,13 +48,14 @@ then ship, monitor and maintain it myself.
 
 ### 📌 Right now
 
+- 💼 Open to permanent positions (CDI) in Belgium 🇧🇪 and Luxembourg 🇱🇺
 - 🔭 Building the next version of the Ambulance Présent volunteer portal
 - 🌱 Digging into WebAuthn / passkeys and Directus extension internals
 - 💬 Happy to talk about **Directus, Nuxt, self-hosting** and tooling for non-profits
 
 ### 📫 Get in touch
 
-The easiest way is [LinkedIn](https://www.linkedin.com/in/samuel-franzini/). I'm open to freelance work and collaborations.
+The easiest way is [LinkedIn](https://www.linkedin.com/in/samuel-franzini/). I'm **open to permanent positions (CDI) in Belgium and Luxembourg**, so feel free to reach out.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samuelfranzini&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="160" />
