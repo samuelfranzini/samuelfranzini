@@ -24,7 +24,7 @@ I'm **open to permanent positions (CDI) in Belgium and Luxembourg**, especially 
 - Built custom **AI agents and orchestration tools** (GitHub Copilot, Claude) to speed up the team's workflows
 - Mentored junior developers
 
-**Digital lead @ [Ambulance Présent 2.0 ASBL](https://ambulancepresent.be/)**, a Belgian volunteer ambulance service
+**Head of Software Development & DevOps @ [Ambulance Présent 2.0 ASBL](https://ambulancepresent.be/)**, a Belgian volunteer ambulance service
 - 🚑 **Volunteer platform**: Nuxt + Directus portal (trainings, uniforms & equipment, logistics, returns, activity points)
 - 🔐 **Directus extensions**: account security (active sessions, activity log, 2FA backup codes, WebAuthn), Stripe payments, custom mail operations
 - 🔄 **Integrations**: syncing data between eBrigade, Excel imports and Directus (Node.js workers, scheduled jobs)
