@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-franzini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://ambulancepresent.be/"><img src="https://img.shields.io/badge/Ambulance%20Présent-dc2626?style=flat&logo=googlechrome&logoColor=white" alt="Ambulance Présent"></a>
-  <a href="https://status.ambulancepresent.be/"><img src="https://img.shields.io/badge/Status%20page-16a34a?style=flat&logo=statuspage&logoColor=white" alt="Status page"></a>
 </p>
 
 ### 👋 Hi, I'm Samuel
@@ -20,7 +19,7 @@ then ship, monitor and maintain it myself.
 - 🔐 **Directus extensions**: account security (active sessions, activity log, 2FA backup codes, WebAuthn), Stripe payments, custom mail operations
 - 🔄 **Integrations & automation**: syncing data between eBrigade, Excel imports and Directus (Node.js workers, scheduled jobs)
 - 🤖 **Discord bots**: community bots for gaming and Discord communities
-- 📡 **Ops**: self-hosting, CI/CD, backups and a public [status page](https://status.ambulancepresent.be/)
+- 📡 **Ops**: self-hosting, CI/CD and backups
 
 ### 🧰 Stack
 
